@@ -9,10 +9,15 @@ Um sistema microprocessado é um sistema	no qual	o computador é completamente e
 3. Apresente aplicações de sistemas embarcados:
 
 	(a) Para a indústria automotiva;
+	
 		-Controle de acionamento de airbags, controle de frenagem, computador de bordo.	
+		
 	(b) Para eletrodomésticos;
+	
 		-Controle de temperatura, temporizadores, controle da velocidade de um liquidificador
+		
 	(c) Para automação industrial.
+	
 		-Dispositivos de segurança, controle de máquinas.
 		
 
